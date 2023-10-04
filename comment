@@ -1,0 +1,8 @@
+.sekiller{
+    display: block;
+    margin-left: 70px;
+    justify-content: space-between;
+    letter-spacing: 60px;
+    position: relative;
+    top: -80px
+}
